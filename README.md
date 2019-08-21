@@ -6,7 +6,8 @@
 大数据开发抱团学习平台
 ===============
 
-当前最新版本： 1.0.0（发布日期：20190812）
+- 当前最新版本： 1.0.0（发布日期：20190812）
+- 微信交流群 ：  添加kinyseven，备注：“进大数据开发抱团学习群”
 
 
 项目介绍：
@@ -21,7 +22,7 @@
 
 <br/>
 
-> 借鉴：https://github.com/heibaiying/BigData-Notes
+ 借鉴：github.com/heibaiying/BigData-Notes
 
 <table>
     <tr>
