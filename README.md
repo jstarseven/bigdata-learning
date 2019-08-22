@@ -23,9 +23,7 @@
 <br/>
 <h3 align="center">欢迎关注博主公众号</h3>
 <h4 align="center" style="color: #f36363">大道七哥</h4>
-<table>
-<tr><img src="docs/pictures/大道七哥.png" style="height:160px;width:160px;"/></tr>
-</table>
+<img align="center" src="docs/pictures/大道七哥.png" style="height:160px;width:160px;">
 <br/>
  借鉴：github.com/heibaiying/BigData-Notes
 
