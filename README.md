@@ -19,10 +19,11 @@
 希望参与的每个人都能有或多或少的收获。
 目前已经建立微信学习交流群，群内人员大部分是新手，部分人员目前正在从事大数据相关的工作，还有部分是在校学生，
 本着互利互惠的原则，大家友好交流！
+
 <br/>
 <h3 align="center">欢迎关注博主公众号</h3>
-<h2 align="center" style="">大道七哥</h2>
-<img src="docs/pictures/大道七哥.png" style=""/>
+<h4 align="center" style="color: #f36363">大道七哥</h4>
+<p style="text-align: center;"><img src="docs/pictures/大道七哥.png" style="height:160px;"/></p>
 <br/>
 
  借鉴：github.com/heibaiying/BigData-Notes
